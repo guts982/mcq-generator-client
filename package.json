@@ -1,0 +1,35 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.1.13",
+    "@reduxjs/toolkit": "^1.9.6",
+    "@uidotdev/usehooks": "^2.3.1",
+    "axios": "^1.5.1",
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.279.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "^8.1.2",
+    "sass": "^1.68.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
